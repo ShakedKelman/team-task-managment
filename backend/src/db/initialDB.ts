@@ -115,6 +115,6 @@ const insertSampleMeetings = async () => {
     };
     
 
-    insertSampleMeetings().then(() => {
-    console.log("Done creating meeting table");
-});
+//     insertSampleMeetings().then(() => {
+//     console.log("Done creating meeting table");
+// });
