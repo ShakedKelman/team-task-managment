@@ -10,5 +10,6 @@
 
 
 ## Instructions for Using the frontend Code
-1. make sure to npm install react-bootstrap bootstrap, axios, react-router-dom
+1. make sure to npm install react-bootstrap bootstrap, axios, react-router-dom, @mui/material @emotion/react @emotion/styled
+
 
