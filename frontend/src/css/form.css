@@ -1,0 +1,42 @@
+/* AddMeeting.css */
+
+.add-meeting-container {
+    max-width: 500px; /* Set maximum width to make the form smaller */
+    margin: auto; /* Center the form horizontally */
+    margin-top: 50px; /* Center the form horizontally */
+    padding: 20px; /* Add padding around the form */
+    background-color: #fef9e9; /* Light yellow background */
+    color: #333; /* Dark text color for contrast */
+    border-radius: 8px; /* Rounded corners */
+}
+
+.add-meeting-container h1 {
+    text-align: center; /* Center the header */
+    margin-bottom: 20px; /* Space below the header */
+    color: #e0b20e; /* Light yellow color for the header */
+}
+
+.add-meeting-container .form-control {
+    background-color: #fff9e3; /* Very light yellow background for form controls */
+    color: #333; /* Dark text color for contrast */
+    border: 1px solid #d3d3d3; /* Light gray border color */
+}
+
+.add-meeting-container .form-control:focus {
+    background-color: #fff8d6; /* Light yellow background on focus */
+    border-color: #b8b8b8; /* Slightly darker border on focus */
+    box-shadow: none; /* Remove default focus shadow */
+}
+
+.add-meeting-container .btn-primary {
+    margin-top: 25px;
+    background-color: #e0b20e; /* Light yellow background */
+    border-color: #e0b20e; /* Matching border color */
+    color: #fff; /* White text color */
+}
+
+.add-meeting-container .btn-primary:hover {
+    background-color: #e5c029; /* Slightly darker shade on hover */
+    border-color: #e5c029; /* Matching border color */
+    color: #fff; /* White text color */
+}

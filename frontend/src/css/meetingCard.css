@@ -1,0 +1,24 @@
+.single-meeting-card {
+    color: #d6ae0c; /* Yellow text color for card body */
+    margin: auto;
+    border-radius: 0.25rem; /* Ensure border-radius matches Bootstrap's default */
+    border: 10px solid #f3c808; /* Lighter yellow border */
+
+}
+
+.single-meeting-card .card-title {
+    color: rgb(237, 187, 51); /* Bright yellow color for the text */
+font-size: 30px;
+}
+
+
+.single-meeting-card .card-text {
+    color: #131313; /* Darker color for card text */
+}
+
+.single-meeting-card .card-body {
+    background-color: rgba(248, 228, 142, 0.7); /* Transparent yellow background */
+    border: none; /* Remove Bootstrap's default border inside the body */
+    padding: 1.25rem; /* Default padding for card body */
+    border-radius: inherit; /* Match card body border-radius to card */
+}
